@@ -14,9 +14,9 @@
 
     <div class="col-md-4">
       <div class="testimonial">
-        <h2 style="margin: 0;">Camron Shaw</h2>
-        <p class="stars red"><i class="fas fa-star"></i>&nbsp;<i class="fas fa-star-half"></i></p>
-        <i><p>lol lightspeed hosting is better yall are scrubs but btw nice website</p></i>
+        <h2 style="margin: 0;">tbd</h2>
+        <p class="stars red"><i class="fas fa-star"></i>&nbsp;<i class="fas fa-star"></i>&nbsp;<i class="fas fa-star"></i>&nbsp;<i class="fas fa-star"></i>&nbsp;<i class="fas fa-star"></i></p>
+        <i><p>tbd</p></i>
       </div>
     </div>
 
