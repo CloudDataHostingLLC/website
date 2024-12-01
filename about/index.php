@@ -64,9 +64,9 @@
       <div class="col-md-4">
         <div class="team">
           <img src="/assets/img/drew.jpg">
-          <h1>Drew</h1>
+          <h1>Josh</h1>
           <p><b>CTO</b></p>
-          <p class="description">Hello! I'm Drew, Chief Technical Officer of Cloud Data Hosting. I make sure the technology we use is always up to speed and our services are always online. Although I'm young, I have a lot of experience working in a professional setting.</p>
+          <p class="description">Hello! I'm Josh, Chief Technical Officer of Cloud Data Hosting. I make sure the technology we use is always up to speed and our services are always online. Although I'm young, I have a lot of experience working in a professional setting.</p>
 
           <h3 class="social-links">
             <a href="#"><i class="fab fa-instagram fa-2x"></i></a>
